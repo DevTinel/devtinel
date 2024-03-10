@@ -20,7 +20,7 @@
 
 </div><br/>
 
-### Apaixonado por tecnologia,educação e por mudar a vida das pessoas através da programação. Estudando diariamente cursos para me tornar Full-Stack, atualmente estou cursando Ciências da computaçãp pela faculdade IMPACTA TECNOLOGIA,não trabalho na área 
+### Apaixonado por tecnologia,educação e por mudar a vida das pessoas através da programação. Estudando diariamente cursos para me tornar Full-Stack, atualmente estou cursando Ciências da computação pela faculdade IMPACTA TECNOLOGIA,não trabalho na área 
 
 ## Links para redes sociais onde me distraio um pouco
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_tinel/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/david.augusto.777/)
